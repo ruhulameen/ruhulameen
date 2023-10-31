@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hi there, I'm Ruhul Ameen!
 
-<!--
-**ruhulameen/ruhulameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 I'm a passionate developer with expertise in **Laravel**, **Vue.js**, **NodeJS**, **MySQL**, **PostgreSQL**, and **Redis**.
+- 🌱 I'm currently diving deep into **GoLang**, **Kafka**, and **GraphQL**.
+- 👯 I'm open to collaborating on innovative projects that challenge the status quo.
+- 💬 Ask me about web development, database design, or anything related to my tech stack!
+- 📫 How to reach me: 
+  - [Twitter](https://twitter.com/ruhulameenbd)
+  - [LinkedIn](https://www.linkedin.com/in/ruhulameenbd/)
+  - [Facebook](https://www.facebook.com/ruhulameenbd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Backend:** Laravel, NodeJS
+- **Frontend:** Vue.js
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Currently Learning:** GoLang, Kafka, GraphQL
+
+## 📊 GitHub Stats
+
+![Ruhul Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
