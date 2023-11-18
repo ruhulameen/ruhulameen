@@ -15,8 +15,8 @@
 
 - **Backend:** Laravel, NodeJS
 - **Frontend:** Vue.js
-- **Databases:** MySQL, PostgreSQL, Redis
-- **Currently Learning:** GoLang, Kafka, GraphQL
+- **Databases:** MySQL, PostgreSQL, Redis, KeyDB
+- **Currently Learning:** GraphQL, GoLang
 
 ## 📊 GitHub Stats
 
