@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm a passionate developer with expertise in **Laravel**, **Vue.js**, **NodeJS**, **MySQL**, **PostgreSQL**, **GraphQL** and **Redis**.
+- 🔭 I'm a passionate developer with expertise in **Laravel**, **VueJS**, **ReactJS**, **NodeJS**, **MySQL**, **PostgreSQL**, **GraphQL** and **Redis**.
 - 🌱 I'm currently diving deep into **GoLang**.
 - 👯 I'm open to collaborating on innovative projects that challenge the status quo.
 - 💬 Ask me about web development, database design, or anything related to my tech stack!
@@ -14,7 +14,7 @@
 ## 🛠 Skills
 
 - **Backend:** Laravel, NodeJS
-- **Frontend:** Vue.js
+- **Frontend:** VueJS, ReactJS
 - **Databases:** MySQL, PostgreSQL, Redis, KeyDB, GraphQL
 - **Currently Learning:**, GoLang
 
