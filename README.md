@@ -13,7 +13,7 @@
 
 ## 🛠 Skills
 
-- **Language:** PHP, JavaScript, SQL
+- **Language:** PHP, JavaScript, TypeScript, SQL
 - **Backend:** Laravel, ExpressJS, NestJS
 - **Frontend:** VueJS, ReactJS, NuxtJS, NextJS
 - **Databases:** MySQL, PostgreSQL, Redis, KeyDB
